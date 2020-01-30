@@ -4,7 +4,7 @@ brew install mongodb-community@4.2
 brew services start mongodb-community@4.2
 mongo
 exit
-cd /~
+cd ~
 mkdir dir
 cd dir
 git clone https://github.com/luckyMcHanc/matcha.git

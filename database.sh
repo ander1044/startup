@@ -7,5 +7,5 @@ exit
 cd ~
 mkdir dir
 cd dir
-git clone https://github.com/luckyMcHanc/matcha.git
+git clone --branch anda https://github.com/luckyMcHanc/matcha.git
 exit
